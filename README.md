@@ -1,10 +1,12 @@
 # Tungsten V1
 
 Arduino program for Nerf Rapidstrike with:<br />
-Single shot, Burst mode and Full Auto. <br />
-Adjustable ROF, Ammo capacity, Burst per shot. <br />
-Ammo counter.<br /><br />
-
+<ul>
+<li>Single shot, Burst mode and Full Auto.</li>
+<li>Adjustable ROF, Ammo capacity, Burst per shot.</li>
+<li>Ammo counter.</li>
+</ul>
+<br />
 Board used     - Arduino Nano<br />
 Pusher Motor   - MTB Honey Badger Motor<br />
 FlyWheel Motor - MTB Rhino Motor<br />
