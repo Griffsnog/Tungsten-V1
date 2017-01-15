@@ -86,7 +86,7 @@ int voltageLimt         = PWM_SIGNAL_MAX;
 int rofLimitArrSize     = 3;                 
 int rofLimitArr []      = {100, 40, 25};     // number are in percentage, 100%, 40%, 25%
 int modeROFSetted       = MODE_ROF_STANDARD; // select index position 1, which is 40%
-int modeROFSelected     = MODE_ROF_STANDARD; // select index position 0, which is 100%
+int modeROFSelected     = MODE_ROF_STANDARD; // select index position 1, which is 40%
 
 int settingLimit        = SETTING_LIMIT_OFF; // Turn Off setting of limits
 int ammoLimit           = 18;                // default set as 18 dart mag
