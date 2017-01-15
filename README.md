@@ -5,6 +5,7 @@ Arduino program for Nerf Rapidstrike with:<br />
 <li>Single shot, Burst mode and Full Auto.</li>
 <li>Adjustable ROF, Ammo capacity, Burst per shot.</li>
 <li>Ammo counter.</li>
+<li>Battery Low Alert.</li>
 </ul>
 <br />
 Board used     - Arduino Nano<br />
